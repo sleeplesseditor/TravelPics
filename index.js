@@ -12,4 +12,6 @@ const RNRedux = () => (
     </Provider>
 );
 
-AppRegistry.registerComponent('TravelPics', () => RNRedux);
+AppRegistry.registerComponent(
+    'TravelPics', () => RNRedux
+);
