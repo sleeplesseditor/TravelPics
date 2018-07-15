@@ -3,4 +3,4 @@ export {
     deletePlace, 
     selectPlace, 
     deselectPlace 
-} from "./placesActions";
+} from './placesActions';

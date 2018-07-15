@@ -1,31 +1,31 @@
-import React, { Component } from "react";
-import { StyleSheet, View } from "react-native";
-import { connect } from "react-redux";
+import React, { Component } from 'react';
+import { StyleSheet, View } from 'react-native';
+import { connect } from 'react-redux';
 
-import PlaceInput from "./src/components/PlaceInput/PlaceInput";
-import PlaceList from "./src/components/PlaceList/PlaceList";
-import PlaceDetail from "./src/components/PlaceDetail/PlaceDetail";
+import PlaceInput from './src/components/PlaceInput/PlaceInput';
+import PlaceList from './src/components/PlaceList/PlaceList';
+import PlaceDetail from './src/components/PlaceDetail/PlaceDetail';
 import {
   addPlace,
   deletePlace,
   selectPlace,
   deselectPlace
-} from "./src/store/actions/index";
+} from './src/store/actions/index';
 
 class App extends Component {
-  placeAddedHandler = placeName => {
+  placeAdded = placeName => {
     this.props.onAddPlace(placeName);
   };
 
-  placeDeletedHandler = () => {
+  placeDeleted = () => {
     this.props.onDeletePlace();
   };
 
-  modalClosedHandler = () => {
+  modalClosed = () => {
     this.props.onDeselectPlace();
   };
 
-  placeSelectedHandler = key => {
+  placeSelected = key => {
     this.props.onSelectPlace(key);
   };
 
@@ -34,13 +34,13 @@ class App extends Component {
       <View style={styles.container}>
         <PlaceDetail
           selectedPlace={this.props.selectedPlace}
-          onItemDeleted={this.placeDeletedHandler}
-          onModalClosed={this.modalClosedHandler}
+          onItemDeleted={this.placeDeleted}
+          onModalClosed={this.modalClosed}
         />
-        <PlaceInput onPlaceAdded={this.placeAddedHandler} />
+        <PlaceInput onPlaceAdded={this.placeAdded} />
         <PlaceList
           places={this.props.places}
-          onItemSelected={this.placeSelectedHandler}
+          onItemSelected={this.placeSelected}
         />
       </View>
     );

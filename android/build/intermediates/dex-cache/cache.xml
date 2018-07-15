@@ -66,6 +66,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/TravelPics/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/pre-dexed/debug/TravelPics-react-native-vector-icons-unspecified_e5945906b52539046bb307ae0b68aca09f3fafbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/joshbryson/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"

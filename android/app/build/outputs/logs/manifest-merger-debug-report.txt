@@ -1,40 +1,88 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/de8c26a6414793ba1c473edbf2b13bd5/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/b5bfd1499487a076c21b2af822e7a580/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b83b11f1d2d132c801edb46c19287008/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/453b1a5fb54b78d46ae6c749c13b4892/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3b79c9c078526ae0a76868f5197d8a98/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/d406f3f01a0bd80b442aa98d2d20554b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/80c2633536a7efbc9669c407cf6a93b9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/deb0353ab81f3935e68ba850daa6eef9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/74b98a522d8bb1478627451bb0110f33/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/cf914771338f5f7ca80114dc954eddc9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/41c42aa48c4b454c2234dfd16cf40f8b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a1e0c582c0085b962dd9b06d29668636/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5d18dc4bc5e973f3d8574237d04f58b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/27a8611d6eec3c5126e1e1aee23337b9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/8114dad9de0652df9059a5aa79fd5e22/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/2fd15576f27eaf9ae0e06a3434fcbf82/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/99f80b28c31533e0f33c2f7d6eaabbb5/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12
 	package
 		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:2:5-29
 		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12
 		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:11-69
-	android:versionCode
-		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
 		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:5:22-75
 application
 ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/453b1a5fb54b78d46ae6c749c13b4892/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/453b1a5fb54b78d46ae6c749c13b4892/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3b79c9c078526ae0a76868f5197d8a98/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3b79c9c078526ae0a76868f5197d8a98/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/cf914771338f5f7ca80114dc954eddc9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/cf914771338f5f7ca80114dc954eddc9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/41c42aa48c4b454c2234dfd16cf40f8b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/41c42aa48c4b454c2234dfd16cf40f8b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a1e0c582c0085b962dd9b06d29668636/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a1e0c582c0085b962dd9b06d29668636/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5d18dc4bc5e973f3d8574237d04f58b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5d18dc4bc5e973f3d8574237d04f58b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/27a8611d6eec3c5126e1e1aee23337b9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/27a8611d6eec3c5126e1e1aee23337b9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/8114dad9de0652df9059a5aa79fd5e22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/8114dad9de0652df9059a5aa79fd5e22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/2fd15576f27eaf9ae0e06a3434fcbf82/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/2fd15576f27eaf9ae0e06a3434fcbf82/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/99f80b28c31533e0f33c2f7d6eaabbb5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/99f80b28c31533e0f33c2f7d6eaabbb5/AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:9:7-39
-	android:allowBackup
-		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:icon
 		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
 		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
@@ -65,26 +113,83 @@ ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/
 		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/de8c26a6414793ba1c473edbf2b13bd5/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/de8c26a6414793ba1c473edbf2b13bd5/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/b5bfd1499487a076c21b2af822e7a580/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/b5bfd1499487a076c21b2af822e7a580/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b83b11f1d2d132c801edb46c19287008/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b83b11f1d2d132c801edb46c19287008/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/453b1a5fb54b78d46ae6c749c13b4892/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/453b1a5fb54b78d46ae6c749c13b4892/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/d406f3f01a0bd80b442aa98d2d20554b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/d406f3f01a0bd80b442aa98d2d20554b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/80c2633536a7efbc9669c407cf6a93b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/80c2633536a7efbc9669c407cf6a93b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/deb0353ab81f3935e68ba850daa6eef9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/deb0353ab81f3935e68ba850daa6eef9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/74b98a522d8bb1478627451bb0110f33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/74b98a522d8bb1478627451bb0110f33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/cf914771338f5f7ca80114dc954eddc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/cf914771338f5f7ca80114dc954eddc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/41c42aa48c4b454c2234dfd16cf40f8b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/41c42aa48c4b454c2234dfd16cf40f8b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a1e0c582c0085b962dd9b06d29668636/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a1e0c582c0085b962dd9b06d29668636/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5d18dc4bc5e973f3d8574237d04f58b6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5d18dc4bc5e973f3d8574237d04f58b6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/27a8611d6eec3c5126e1e1aee23337b9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/27a8611d6eec3c5126e1e1aee23337b9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/8114dad9de0652df9059a5aa79fd5e22/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/8114dad9de0652df9059a5aa79fd5e22/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/2fd15576f27eaf9ae0e06a3434fcbf82/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/2fd15576f27eaf9ae0e06a3434fcbf82/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/99f80b28c31533e0f33c2f7d6eaabbb5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/99f80b28c31533e0f33c2f7d6eaabbb5/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/cf914771338f5f7ca80114dc954eddc9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/cf914771338f5f7ca80114dc954eddc9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/41c42aa48c4b454c2234dfd16cf40f8b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/41c42aa48c4b454c2234dfd16cf40f8b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a1e0c582c0085b962dd9b06d29668636/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a1e0c582c0085b962dd9b06d29668636/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5d18dc4bc5e973f3d8574237d04f58b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5d18dc4bc5e973f3d8574237d04f58b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/27a8611d6eec3c5126e1e1aee23337b9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/27a8611d6eec3c5126e1e1aee23337b9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/8114dad9de0652df9059a5aa79fd5e22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/8114dad9de0652df9059a5aa79fd5e22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/2fd15576f27eaf9ae0e06a3434fcbf82/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/2fd15576f27eaf9ae0e06a3434fcbf82/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/99f80b28c31533e0f33c2f7d6eaabbb5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/99f80b28c31533e0f33c2f7d6eaabbb5/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_PHONE_STATE
+uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
