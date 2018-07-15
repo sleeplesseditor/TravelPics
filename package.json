@@ -19,8 +19,8 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "~0.55.2",
-    "react-native-navigation": "https://github.com/krystofcelba/react-native-navigation.git#rn52",
+    "react-native": "0.55.4",
+    "react-native-navigation": "^2.0.2412",
     "react-native-vector-icons": "^4.6.0",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0"

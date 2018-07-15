@@ -4,6 +4,10 @@
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/color-v23/abc_tint_switch_thumb.xml"
     },

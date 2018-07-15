@@ -1,11 +1,31 @@
 [
     {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/c5de3c1cf4e5c2ff046b02f1a8dac26c/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/drawable-v21/avd_hide_password.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",

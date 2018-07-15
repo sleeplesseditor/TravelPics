@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.m \
-  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.h \
-  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
-  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegateAdapter.m \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegateAdapter.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegate.h

@@ -1,11 +1,7 @@
 [
     {
-        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/res/anim/catalyst_fade_out.xml"
-    },
-    {
-        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native-navigation/lib/android/app/build/intermediates/bundles/reactNative55Debug/res/anim/slide_down.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
@@ -14,6 +10,70 @@
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/fab_scale_up.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/534bb1480a158928de03f422e96ed01e/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/534bb1480a158928de03f422e96ed01e/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/534bb1480a158928de03f422e96ed01e/res/anim/fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_right.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/534bb1480a158928de03f422e96ed01e/res/anim/fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native-navigation/lib/android/app/build/intermediates/bundles/reactNative55Debug/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/534bb1480a158928de03f422e96ed01e/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
@@ -36,12 +96,12 @@
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/fab_scale_down.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/534bb1480a158928de03f422e96ed01e/res/anim/fab_scale_down.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
@@ -52,12 +112,8 @@
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/res/anim/catalyst_fade_in.xml"
     },
     {
-        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/res/anim/catalyst_slide_up.xml"
-    },
-    {
-        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9b60c5a8561c5b70639f9a08bf614973/res/anim/catalyst_slide_down.xml"
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/anim/design_fab_out.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",

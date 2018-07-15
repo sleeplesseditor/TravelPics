@@ -14,5 +14,13 @@
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/c5de3c1cf4e5c2ff046b02f1a8dac26c/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/c5de3c1cf4e5c2ff046b02f1a8dac26c/res/layout-v21/bottom_navigation_small_item.xml"
     }
 ]

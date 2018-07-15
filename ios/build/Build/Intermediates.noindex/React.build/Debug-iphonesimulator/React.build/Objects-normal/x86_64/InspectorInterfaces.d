@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/ReactCommon/jschelpers/InspectorInterfaces.cpp \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/ReactCommon/jschelpers/InspectorInterfaces.h

@@ -8,20 +8,32 @@
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/notification_background.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/c5de3c1cf4e5c2ff046b02f1a8dac26c/res/drawable/notification_background.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_switch_thumb_material.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
@@ -60,8 +72,16 @@
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/notification_tile_bg.xml"
     },
     {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
@@ -70,6 +90,10 @@
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/66e56838a5c1ab0280965846f32fb4e0/res/drawable/design_snackbar_background.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
@@ -118,6 +142,10 @@
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fa4a58820f3d6cc43c8c1e7a9e62adb5/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/item_background.xml",
+        "source": "/Users/joshbryson/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/c5de3c1cf4e5c2ff046b02f1a8dac26c/res/drawable/item_background.xml"
     },
     {
         "merged": "/Users/joshbryson/Desktop/Coding/React-Native/TravelPics/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
