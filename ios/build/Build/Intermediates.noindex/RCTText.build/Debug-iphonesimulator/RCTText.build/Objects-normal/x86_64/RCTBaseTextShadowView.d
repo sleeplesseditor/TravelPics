@@ -17,6 +17,7 @@ dependencies: \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h

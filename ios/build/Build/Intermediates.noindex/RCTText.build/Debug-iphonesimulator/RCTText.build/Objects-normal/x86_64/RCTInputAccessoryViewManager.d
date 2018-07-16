@@ -23,4 +23,8 @@ dependencies: \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h

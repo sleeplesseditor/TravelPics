@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.m \
-  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native-navigation/lib/ios/RCTHelpers.m \
+  /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/node_modules/react-native-navigation/lib/ios/RCTHelpers.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
   /Users/joshbryson/Desktop/Coding/React-Native/TravelPics/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
